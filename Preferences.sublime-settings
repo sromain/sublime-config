@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"dictionary": "Packages/Language - French - Français/fr_FR.dic",
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
