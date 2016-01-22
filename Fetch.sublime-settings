@@ -1,0 +1,13 @@
+{
+	"files":
+	{
+		"angular-js": "https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js",
+		"angular-js-locale-fr-fr": "https://code.angularjs.org/1.4.8/i18n/angular-locale_fr-fr.js",
+		"angular-js-ng-route": "https://code.angularjs.org/1.4.8/angular-route.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
